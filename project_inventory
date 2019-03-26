@@ -1,0 +1,30 @@
+Project:
+
+This application contains Web API services used by the android application.
+
+Model:
+
+Vendor:
+VName
+VEmail
+
+Customer:
+CName
+CEmail
+
+Admin:
+AName
+AEmail
+
+Offer:
+VName
+offer_startDate
+offer_EndDate
+Store
+location id
+
+REST API:
+
+/GET_OFFER - based on location
+/DELETE_OFFER - by Vendor/ADMIN
+/UPDATE_OFFER - by Vendor/Admin
