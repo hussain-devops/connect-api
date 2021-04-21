@@ -23,8 +23,10 @@ offer_EndDate
 Store
 location id
 
+
 REST API:
 
 /GET_OFFER - based on location
 /DELETE_OFFER - by Vendor/ADMIN
 /UPDATE_OFFER - by Vendor/Admin
+/ADD_OFFER - by Vendor/Admin
